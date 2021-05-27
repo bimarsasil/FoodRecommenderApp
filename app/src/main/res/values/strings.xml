@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Food Recommendation  App</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >6 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_recipe">All Recipe</string>
+    <string name="create_profile">Create User Profile</string>
+    <string name="login">Login</string>
+    <string name="title_activity_my">iFood Recommender</string>
+    <string name="height_cm">Height (cm)</string>
+    <string name="gender">Gender</string>
+    <string name="age_years">Age (Years)</string>
+    <string name="waist_cm">Waist (cm)</string>
+    <string name="weight_kg">Weight (kg)</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="cost">Cost</string>
+    <string name="select_receipe">Select Receipe</string>
+    <string name="cholesterol">Cholesterol</string>
+</resources>
